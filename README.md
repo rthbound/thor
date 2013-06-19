@@ -33,3 +33,10 @@ License
 Released under the MIT License.  See the [LICENSE][] file for further details.
 
 [license]: LICENSE.md
+
+Development
+-----------
+1. Fork & Clone
+2. `gem install bundler && bundle`
+3. `bundle exec thor spec`
+4. You're good to go.
